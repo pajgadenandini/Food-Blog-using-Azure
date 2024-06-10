@@ -1,3 +1,1 @@
-# finalpro
-this is my final frt project.
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+https://ambitious-dune-07bc04910.5.azurestaticapps.net
